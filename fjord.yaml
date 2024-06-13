@@ -1,0 +1,11 @@
+
+
+
+path:  /home/student/alaaabo/data
+train: /home/student/alaaabo/data/images/train
+test:  /home/student/alaaabo/data/images/test
+val:   /home/student/alaaabo/data/images/val
+
+
+nc: 13
+names: ['asterias rubens', 'asteroidea', 'fucus vesiculosus', 'henrica', 'mytilus edulis', 'myxine glurinosa', 'pipe', 'rock', 'saccharina latissima', 'tree', 'ulva intestinalis', 'urospora', 'zostera marina']
