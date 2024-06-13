@@ -18,5 +18,8 @@ The data was collected by recording videos using the Blueye Pioneer underwater d
 
 2- Download the videos from [Here](https://vforsk-my.sharepoint.com/:f:/g/personal/bcw_vestforsk_no/EoFaGHXVEhlJvxu1-gBO5-wBpd0vh9zlba6WA1-gMGKylA?e=2GRPxo)
 
-# Downloading the marine species model weights:
+# Video of Tracking :
+
+You can find  video as an example of tracking  [Here](https://liveuis-my.sharepoint.com/:f:/r/personal/251410_uis_no/Documents/Data%20science_Master%20thesis?csf=1&web=1&e=ZmBOhG):
+
 
