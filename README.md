@@ -3,6 +3,7 @@ Repository for my master's thesis in Simulation and Visualization focused on opt
 
 # Prerequisites
 [Python 3.10](https://www.python.org/)
+
 [TensorFlow](https://www.tensorflow.org/)
 
 
